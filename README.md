@@ -10,8 +10,7 @@ Dandy for using it with Molecule for Ansible role testing.
 
 ## Tags
 
-- `latest`: Latest version of the image (built and updated every Saturday)
-- `20191202`: debian10 with packages from 2nd Dec 2019
+- `latest`: Latest version of the image
 
 ## How-to
 
